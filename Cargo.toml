@@ -2,6 +2,10 @@
 name = "pali-nimi-sin"
 version = "1.0.0"
 edition = "2021"
+license = "WTFPL"
+description = "ilo ni li pali e nimi sin mute li sitelen e ona. sina ken kepeken nimi '-h' la sina sona e ni: ilo li ken seme"
+repository = "https://github.com/AsterixxxGallier/pali-nimi-sin"
+readme = "o lukin e mi.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
