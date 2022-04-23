@@ -6,6 +6,8 @@ license = "WTFPL"
 description = "ilo ni li pali e nimi sin mute li sitelen e ona. sina ken kepeken nimi '-h' la sina sona e ni: ilo li ken seme"
 repository = "https://github.com/AsterixxxGallier/pali-nimi-sin"
 readme = "o lukin e mi.md"
+keywords = ["toki-pona", "ilo", "nimi", "cli"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
